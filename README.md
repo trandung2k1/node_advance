@@ -1,3 +1,3 @@
-## Cluster: request error little, big request
+## Cluster: request error little, expand more requirements
 
-## Worker thread: multiple threads , handling multiple requests at the same time without being blocked
+## Worker thread: multiple threads, handle multiple requests at the same time without blocking between threads
