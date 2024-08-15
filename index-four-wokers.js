@@ -21,6 +21,8 @@ function createWorker() {
         });
     });
 }
+
+//17s
 app.get('/blocking', async (req, res) => {
     const workerPromises = [];
     for (let i = 0; i < THREAD_COUNT; i++) {
